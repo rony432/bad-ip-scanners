@@ -2,6 +2,8 @@ List of IP's Scanning All Ports on Your Server
 
 This repository contains a list of bad IPs that are scanning all ports on your server.
 
+ips are captured on a honeypot
+
 Usage:
 
 Clone the repository:
