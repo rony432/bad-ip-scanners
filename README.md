@@ -4,6 +4,8 @@ This repository contains a list of bad IPs that are scanning all ports on your s
 
 ips are captured on a honeypot
 
+its includes all ip ranges for china(v4-v6) and russia(v4)
+
 Usage:
 
 Clone the repository:
